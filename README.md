@@ -25,7 +25,7 @@
   Developed a deep learning model to predict loan defaults using customer data.
 
 - **Stock Price Prediction** *(In Progress)*  
-  Leveraging historical stock data to forecast price trends using machine learning.
+  Leveraging historical stock data to forecast price trends in SAS.
 
 ---
 
