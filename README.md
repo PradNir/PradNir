@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 **Connect With Me**
-- **LinkedIn:** [linkedin.com/in/pradhum-nirola](https://www.linkedin.com/in/pradhum-niroula)  
+- **LinkedIn:** [linkedin.com/in/pradhum-niroula](https://www.linkedin.com/in/pradhum-niroula)  
 - **Email:** pradhumniroula@gmail.com  
 
 ---
