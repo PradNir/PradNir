@@ -39,7 +39,7 @@
 ## 📈 **What I'm Working On**
 - Enhancing skills in **data analysis** and **visualization** with tools like Excel and Tableau.  
 - Exploring cryptocurrency data trends for an **Automated Crypto Data Analysis** project.  
-- Preparing for data-focused interviews to excel in business analytics roles.
+- Preparing for data-focused interviews to excel in data roles.
 
 ---
 
